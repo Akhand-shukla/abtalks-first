@@ -59,4 +59,4 @@ clean `npm audit`, and all persisted user input is rendered as text (never
 
 contributer -Akhand Shukla
             -Akshay Shukla
-            -Aditya Mishra
+            -Aditya Mishra(leader)
